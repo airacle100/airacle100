@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Jungwoo</h1>
 <p align="center">
-  I'm a college student from Korea with a strong passion for aerial robotics, 
+  I'm a college student from Korea with a strong passion for aerial robotics,  
   aspiring to become an AI researcher/engineer. 
 </p>
 
