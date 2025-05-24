@@ -1,6 +1,4 @@
-<p align="center">
-# 👋 Hi, I'm Jungwoo
-</p>
+# <center> 👋 Hi, I'm Jungwoo </center>
 - - -
 <!--
 **airacle100/airacle100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
