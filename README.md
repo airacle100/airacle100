@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jungwoo
+## 👋 Hi, I'm Jungwoo
 <ins> </ins>
 <!--
 **airacle100/airacle100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,28 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱Interests
+#### 🌱Interests
 <ins> </ins>
-- Robot Perception and Navigation
+
+- **Robot Perception and Navigation**
   - 6D Pose Estimation, vSLAM
-- Robot Control
+- **Robot Control**
   - Autonomous Flight, Aerial Manipulation
-- Deep Learning
+- **Deep Learning**
   - Foundation Models, 
-- Computer Vision
+- **Computer Vision**
   - 3D Detection & Segmentation, Multiple view geometry
 
 
-### 🔭 Careers
+#### 🔭 Careers
 <ins> </ins>
+
 - Bachelor's degree in History and Computer Science at the University of Sogang (2020 - PRESENT)
 
 
-### 📚 Education
+#### 📚 Education
 <ins> </ins>
+
 - NAVER boostcamp AI Tech 7th (2024.08 - 2025.02)
 
 
-### 📫 Contacts
+#### 📫 Contacts
 <ins> </ins>
-- LinkedIn: <a href="https://www.linkedin.com/in/jungwoo-yoon-airacle/">링크</a>
+
+- LinkedIn: <a href="https://www.linkedin.com/in/jungwoo-yoon-airacle/">Link</a>
