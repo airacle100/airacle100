@@ -1,18 +1,15 @@
-<h1 align="center">👋 Hi, I'm Jungwoo</h1>
+<h1 align="center">👋 Hello, I'm Jungwoo Yoon</h1>
 <p align="center">
-  I'm a college student from Korea with a strong passion for aerial robotics,  
-  aspiring to become an AI researcher/engineer. 
+   I am a senior undergraduate student in the Department of Humanitas and Computer Science at Sogang University, currently studying with a strong passion for 3D computer vision and aspiring to become an AI researcher.
 </p>
 
 ## 🌱Interests
-- **Robot Perception and Navigation**
-  - 6D Pose Estimation, Visual SLAM
-- **Robot Control**
-  - Autonomous Flight, Aerial Manipulation
+- **3D Computer Vision**
+  - 3D Reconstruction
+- **Generative Model**
+  - Image-to-3D Generation, 3D Diffusion
 - **Deep Learning**
   - Visual Language Model (VLMs), Foundation Model
-- **Computer Vision**
-  - 3D Detection & Segmentation, Multi-view geometry
 
 ## 🔭 Careers
 - Bachelor's degree in History and Computer Science at Sogang University (2020 - PRESENT)
